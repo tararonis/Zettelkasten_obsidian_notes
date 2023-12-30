@@ -1,0 +1,1 @@
+# Zettelkasten_obsidian_notes
