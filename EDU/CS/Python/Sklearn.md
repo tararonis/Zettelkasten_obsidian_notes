@@ -56,6 +56,11 @@ print(r2_score(ytrain, linreg.predict(Xtrain_scaled)))
 print(r2_score(ytest, linreg.predict(Xtest_scaled)))
 
 ```
+### MSE
+```
+from sklearn.metrics import mean_squared_error
+mse = mean_squared_error(y_true, y_pred)
+```
 ## Models
 ### [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression)
 
@@ -70,6 +75,30 @@ linreg.predict(Xtrain_scaled)
 
 print(r2_score(ytest, linreg.predict(Xtest_scaled)))
 ```
+
+## Регуляризация
+### Ridge
+```
+from sklearn.linear_model import Ridge
+model_l2 = Ridge(alpha=1)
+model_l2.fit(Xtrain, ytrain)
+pred_l2 = model_l2.predict(Xtest)
+```
+### Lasso
+```
+from sklearn.linear_model import Lasso 
+
+model_l1 = Lasso(alpha=3.5)
+model_l1.fit(Xtrain, ytrain)
+pred_l1 = model_l1.predict(Xtest)
+```
+### L1+L2 (ElasticNet)
+```
+from sklearn.linear_model import ElasticNet  
+
+model_l2 = ElasticNet(alpha=0.5, l1_ratio=0)
+model_l2.fit(Xtrain, ytrain)
+pred_l2 = model_l2.predict(Xtest)
 ____
 ### Zero-Links
 [[00 ML]][[00 Prog]]
