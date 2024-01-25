@@ -14,7 +14,11 @@ pd.get_dummies(data, drop_first=True, columns=['column_nameA'])
 ### Show n random objects
 ``` df.sample(n)```
 
-
+### How to insert column on selected index
+``` 
+df['new_col'] = …
+df.insert(2, "new column", df.pop("new_col"))
+```
 
 ____
 ### Zero-Links
