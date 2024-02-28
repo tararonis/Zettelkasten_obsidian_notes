@@ -40,7 +40,7 @@ ____
 
 ____
 ### Zero-Links
-[[00 ML]]
+[[Classic ML]]
 
 ____
 ### Links
