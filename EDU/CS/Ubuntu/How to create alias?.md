@@ -6,8 +6,9 @@ ____
    >	// or add to ~/.bash_aliases
 1. Add alias to the end of the file
 2. Install the _.bashrc_.
-   >		source ~/.bashrc
->
+   >		source ~/.bashrci
+>	// or source ~/.bash_aliases
+
 
 
 ____
