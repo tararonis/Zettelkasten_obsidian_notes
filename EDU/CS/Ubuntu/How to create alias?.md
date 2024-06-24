@@ -3,8 +3,8 @@ Tags: #
 ____
 1. Open your _.bashrc_.
    >	vim ~/.bashrc
-1. Add alias to the end of the file
-2. Install the _.bashrc_.
+2. Add alias to the end of the file
+3. Install the _.bashrc_.
    >	source ~/.bashrc
 
 

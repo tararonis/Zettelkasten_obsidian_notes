@@ -19,7 +19,7 @@ f1_score(actual, prediction)
 
 ____
 ### Zero-Links
-[[_ML Metrics]]
+[[_Metrics]]
 
 ____
 ### Links
