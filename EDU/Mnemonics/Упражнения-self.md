@@ -1,59 +1,5 @@
-## План на сегодня
-
-## План на завтра
-
-
-
-
-## Текущий статус
-**09.06.24**
-Примерная рабочая память - 8 чанков.
-
-**Общий**
-I> хуже всего получается - запоминать предметы в матрице и кубики
-
-## Интерактивные
-## И1. Таблица Шульте
-
-http://improve-memory.net/shult/1/
-
-### И2. Пары предметов
-http://improve-memory.net/smb_pairs/1/
-http://improve-memory.net/smb_pairs/2
-## И3. Matches
-http://improve-memory.net/matches/1/
-
-### И4. Пары букв, 4 × 5
-http://improve-memory.net/letters/1/
-
-### И5. Кубики
-http://improve-memory.net/dices/1
-http://improve-memory.net/dices/2
-### И6. Шахматный король
-http://improve-memory.net/chess/9 / 4 x 4
-http://improve-memory.net/chess/10/ / 5 x 5
-http://improve-memory.net/chess/11
-
-### И7. Матрицы 
-http://improve-memory.net/cells/1 / 4 × 4
-http://improve-memory.net/cells/2 / 5 x 5
-
-### И8. Пары слов
-http://improve-memory.net/words_pairs/1/
-http://improve-memory.net/words_pairs/2/
-http://improve-memory.net/words_pairs/3/
-http://improve-memory.net/words_pairs/4/
-### И9. Список слов. Метод историй
-http://improve-memory.net/words_list/1
-http://improve-memory.net/words_list/3
-http://improve-memory.net/words_list/4/
-
-### И10. Предметы на столе
-http://improve-memory.net/items/2/
-
-### И11. Слова под диктовку. Метод историй
-http://improve-memory.net/words_dict/1/
-
+Tags: #
+____
 #### Упражнение I
 Представьте себе доску для записей. Ту, которую вы видели в детстве, в школе или дома. Представьте фактуру доски, ее цвет, раму, как она висит на стене. Может быть, она черная, матовая и шершавая, на которой пишут мелом; может быть – белая и гладкая, для маркера. А теперь представьте, как она меняет цвет на коричневый. На оранжевый. На синий. Почувствуйте каждый цвет. Добейтесь, чтобы доска приобрела ровно тот цвет, какой вы задумали.
 Когда вы научитесь свободно менять цвета воображаемой доски, напишите на ней любое слово. Посмотрите на него внимательно. Каким почерком оно написано? Какого цвета текст? Какая фактура у линии? Сотрите слово воображаемой тряпочкой или губкой и напишите другое. Поработайте с воображаемой доской и словами на ней.
@@ -84,5 +30,6 @@ http://improve-memory.net/words_dict/1/
 ____
 ### Zero-Links
 [[_Mnemonics]]
+
 ____
 ### Links
