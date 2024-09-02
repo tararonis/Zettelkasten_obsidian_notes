@@ -13,7 +13,7 @@ ____
 ![[Pasted image 20240701224135.png]]
 ____
 ### Zero-Links
-[[_Mathematical analysis for working with data]]
+[[_Mathematical analysis for working with data(c)]]
 
 ____
 ### Links

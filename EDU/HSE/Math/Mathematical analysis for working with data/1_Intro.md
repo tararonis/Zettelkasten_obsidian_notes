@@ -52,7 +52,7 @@ ____
 
 ____
 ### Zero-Links
-[[_Mathematical analysis for working with data]]
+[[_Mathematical analysis for working with data(c)]]
 
 ____
 ### Links
