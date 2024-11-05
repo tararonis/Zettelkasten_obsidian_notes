@@ -3,7 +3,7 @@ Tags: #st
 ____
 ## dataclass
 чтобы не мучиться  с прописанием _init_, repr и прочей дичью можно использовать декоратор
-@dataclass from lib dataclasses
+@dataclass
 ```
 from dataclasses import dataclass 
 
