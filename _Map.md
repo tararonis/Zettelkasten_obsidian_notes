@@ -1,28 +1,19 @@
-# Здесь будут находиться все существующие теги и "нулевые" ссылки
+# All folders, links and tags description 
 
-## Папки:
-- Daily // daily notes
-- Files // собственно сабж 
-- Templates // собственно сабж
+## Folders:
+- EDU/HSE - all masters courses
+- EDU/AI - all related to AI
+- EDU/Mnemonics - exercises and techniques
+- 
 
 ## Текущие теги:
 ### Теги статуса
-- #ntd - need to do // задачи которые можно сделать
-- #done // сделанные
-- #st // материал который я изучаю
-- #imm //(in my mind) заметка с мыслями
-- #R // all related to me
-- #ex // регулярные упраженения
+- #todo - need to do // задачи которые можно сделать
 
-## Zero links:
+##Zero links:
 **Также буду в них писать план обучения**
-- [[00 Prog]] // все что касается программирования
-- [[00 Math]] // математика
-- [[00 ML]] // machine learning
-- [[00 Tasks]] // задачи(просто отдельные проекты) 
-- [[00 Linux]] // все что касается системного администрирования
+- [[00 AI]] // machine learning
 - [[00 Mnem]] // about mnemonic technics and exersizes
-- [[00 DevOps]] // related to DevOps
 - [[00 MLOps]] // related to MLOps
 
 ## Tips
